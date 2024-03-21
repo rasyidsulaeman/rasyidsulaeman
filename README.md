@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rasyidsulaeman.rasyidsulaeman" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0045F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Rasyid+Sulaeman" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rasyid+Sulaeman!;" />
 </h1>
 
 <h3 align="center">A passionate <b>data analyst</b> and <b>product management</b> from Indonesia 🇮🇩 </h3>
