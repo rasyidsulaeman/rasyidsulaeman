@@ -29,7 +29,10 @@
   </a>
   <a href="https://public.tableau.com/app/profile/rasyid.sulaeman/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
-  </a>    
+  </a> 
+  <a href="https://medium.com/@rasyid.sulaeman14" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>  
 </div>
 
  <hr/>
@@ -66,11 +69,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
